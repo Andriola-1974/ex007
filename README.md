@@ -1,2 +1,2 @@
 # ex007
-Hierarquia de titulos
+Hierarquia de títulos
